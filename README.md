@@ -5,9 +5,11 @@ We introduce a new image-text dataset, providing high-quality natural language d
 
 ![Example Image](https://github.com/zhu-xlab/ChatEarthNet/blob/main/dataset_vis_2.png)
 
+### License
+This repository is released under the Apache 2.0 license. The dataset and pretrained model weights are released under the CC-BY-4.0 license.
 
 
-### If you find it useful, please kindly cite our paper.
+### Citation
 ```
 @article{yuan2024chatearthnet,
   title={ChatEarthNet: A Global-Scale Image-Text Dataset Empowering Vision-Language Geo-Foundation Models},
