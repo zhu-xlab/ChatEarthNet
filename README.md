@@ -4,3 +4,15 @@ We introduce a new image-text dataset, providing high-quality natural language d
 ![Example Image](https://github.com/zhu-xlab/ChatEarthNet/blob/main/dataset_vis_1.png)
 
 ![Example Image](https://github.com/zhu-xlab/ChatEarthNet/blob/main/dataset_vis_2.png)
+
+
+
+### If you find it useful, please kindly cite our paper.
+```
+@article{yuan2024chatearthnet,
+  title={ChatEarthNet: A Global-Scale Image-Text Dataset Empowering Vision-Language Geo-Foundation Models},
+  author={Yuan, Zhenghang and Xiong, Zhitong and Mou, Lichao and Zhu, Xiao Xiang},
+  journal={arXiv preprint arXiv:2402.11325},
+  year={2024}
+}
+```
