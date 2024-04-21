@@ -9,7 +9,7 @@ The Python code utilizes the ChatGPT API to generate captions.
 ![Example Image](https://github.com/zhu-xlab/ChatEarthNet/blob/main/dataset_vis_2.png)
 
 ### Access the dataset
-The ChatEarthNet can be downloaded from
+The ChatEarthNet can be downloaded from https://doi.org/10.5281/zenodo.11003436
 
 ### License
 This repository is released under the Apache 2.0 license. The dataset and pretrained model weights are released under the CC-BY-4.0 license.
