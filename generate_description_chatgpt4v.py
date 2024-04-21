@@ -234,7 +234,7 @@ def generate_captions(image_paths, segmentation_maps):
     prompt += "You are given four independent images, describe in long sentences for each image seperately using four paragraphs and avoid saying other things.\
             The following constraints should be obeyed: \
             1) Do not use color-related words; treat the color as the land cover type directly.\
-            2) Generate the four sentences seperately; do not add connection between them. \
+            2) Generate the four descriptions seperately; do not add connection between them. \
             3) When describing water, developed, and crop areas, incorporate shape descriptors.\
             4) Double-check all the presented land cover types based on the distribution of each land cover type. If some land covers are not presented, do not mention them.\
             5) Describe it objectively; do not use words: 'possibly','likely','perhaps','color dictionary','appear','change','transition', 'dynamic', or any words with similar connotations.\
